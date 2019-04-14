@@ -1,9 +1,9 @@
 ---
 author: c18male
-image_url: 
+image_url:images/raspberrypi.jpg 
 rights_url: 
 rights_text: 
-title: 
+title: rasberry p
 caption:  
 categories:
   - 
